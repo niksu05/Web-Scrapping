@@ -8,6 +8,16 @@ Web scraping is the process of automatically collecting data from websites using
 
 Python provides libraries such as `requests` and `BeautifulSoup` that make it easier to download and extract information from web pages.
 
+## Static vs Dynamic Websites
+
+### Static Website
+
+A static webpage generally contains HTML content that is available directly in the initial server response.
+
+### Dynamic Website
+
+A dynamic website may load some content after the initial page loads using JavaScript and additional network requests.
+
 ## Task 1 - Flipkart
 
 **Website:** Flipkart
