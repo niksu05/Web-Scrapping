@@ -4,10 +4,9 @@ Web Scrapping Assignment
 
 ## Introduction
 
-Web scraping is a way of collecting useful information from websites using a program or script.
+Web scraping is the process of automatically collecting data from websites using software or Python programs.
 
-
-
+Python provides libraries such as `requests` and `BeautifulSoup` that make it easier to download and extract information from web pages.
 
 ## Task 1 - Flipkart
 
